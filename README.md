@@ -1,5 +1,4 @@
-# deteccao_facial_python
-
+Instruções:
 1 - Abra o PYCHARM
 2 - Crie um novo projeto com ambiente virtual CONDA
 3 - Copie todos os arquivos dessa pasta e cole dentro desse novo projeto
