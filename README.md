@@ -5,10 +5,10 @@ Instruções:
 4 - Abra o arquivo "detectacao_mascara_facial.py"
 5 - Na parte inferior do pycharm, localize o terminal
 6 - Com o terminal aberto instale as bibliotecas no ambiente virtual (CONDA)
-	-pip install keras
-	-pip install tensorflow
-	-pip install opencv-python
-	-pip install imutils
+-pip install keras
+-pip install tensorflow
+-pip install opencv-python
+-pip install imutils
 7 - Execute o SCRIPT "detectacao_mascara_facial.py"
 
 EXTRA:
